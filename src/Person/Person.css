@@ -1,0 +1,10 @@
+.Person{
+    background-color: antiquewhite;
+    padding: 20px;
+    width: 50%;
+    margin: 10px auto auto;
+}
+.Person input{
+    padding: 10px;
+    font-size: 1rem;
+}

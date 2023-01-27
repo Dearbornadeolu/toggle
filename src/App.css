@@ -1,0 +1,10 @@
+button{
+  margin: 20px;
+  padding: 10px;
+  background-color: antiquewhite;
+  border: none;
+}
+.container{
+  display: block;
+  margin: auto;
+}
